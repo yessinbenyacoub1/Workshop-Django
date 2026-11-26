@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Django>=5.2,<5.3
+=======
+=======
+>>>>>>> 4d3827e50b05cfeb8f64e227feeb48358fc9f862
+asgiref==3.13.0
+Django==5.2.19
+sqlparse==0.6.1
+tzdata==2026.6
+<<<<<<< HEAD
+>>>>>>> 4d3827e50b05cfeb8f64e227feeb48358fc9f862
+=======
+>>>>>>> 4d3827e50b05cfeb8f64e227feeb48358fc9f862
